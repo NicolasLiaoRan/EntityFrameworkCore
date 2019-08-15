@@ -1,11 +1,11 @@
 # EntityFrameworkCore
-EntityFrameworkCore演示文件，1-5分别为：
+EntityFrameworkCore演示文件，Demo基于.Net Core 2.2实现，1-5分别为：
 1-与SqlServer数据库连接并通过ORM创建实体关系映射
 2-常见的1：N，N：N，1：1关系
 3,4-CRUD
-5-种子数据
+5-种子数据填充
 
-填充
+学习感悟：EFCore性能要比EF高出很多，操作也比EF简单，在不强调特别高性能的情况下，属于非常优秀的生产力工具，值得广泛使用
 
 ---
 1、[日志](文档：EF Core 学习（一）.note
